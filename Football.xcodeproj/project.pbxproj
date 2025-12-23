@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2C636E732EF898D9003EEAB5 /* YouAreAwesome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YouAreAwesome.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C636E732EF898D9003EEAB5 /* Football.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Football.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		2C636E742EF898D9003EEAB5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2C636E732EF898D9003EEAB5 /* YouAreAwesome.app */,
+				2C636E732EF898D9003EEAB5 /* Football.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2C636E722EF898D9003EEAB5 /* YouAreAwesome */ = {
+		2C636E722EF898D9003EEAB5 /* Football */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2C636E7E2EF898D9003EEAB5 /* Build configuration list for PBXNativeTarget "YouAreAwesome" */;
+			buildConfigurationList = 2C636E7E2EF898D9003EEAB5 /* Build configuration list for PBXNativeTarget "Football" */;
 			buildPhases = (
 				2C636E6F2EF898D9003EEAB5 /* Sources */,
 				2C636E702EF898D9003EEAB5 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				2C636E752EF898D9003EEAB5 /* YouAreAwesome */,
 			);
-			name = YouAreAwesome;
+			name = Football;
 			packageProductDependencies = (
 			);
 			productName = YouAreAwesome;
-			productReference = 2C636E732EF898D9003EEAB5 /* YouAreAwesome.app */;
+			productReference = 2C636E732EF898D9003EEAB5 /* Football.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2C636E6E2EF898D9003EEAB5 /* Build configuration list for PBXProject "YouAreAwesome" */;
+			buildConfigurationList = 2C636E6E2EF898D9003EEAB5 /* Build configuration list for PBXProject "Football" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2C636E722EF898D9003EEAB5 /* YouAreAwesome */,
+				2C636E722EF898D9003EEAB5 /* Football */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2C636E6E2EF898D9003EEAB5 /* Build configuration list for PBXProject "YouAreAwesome" */ = {
+		2C636E6E2EF898D9003EEAB5 /* Build configuration list for PBXProject "Football" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2C636E7C2EF898D9003EEAB5 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2C636E7E2EF898D9003EEAB5 /* Build configuration list for PBXNativeTarget "YouAreAwesome" */ = {
+		2C636E7E2EF898D9003EEAB5 /* Build configuration list for PBXNativeTarget "Football" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2C636E7F2EF898D9003EEAB5 /* Debug */,
